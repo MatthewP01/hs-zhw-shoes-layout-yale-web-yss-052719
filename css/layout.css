@@ -23,6 +23,7 @@
 }
 
 /* Positioning Classes */
+.column-1{
 float: left;
  width: 32%;
 }
