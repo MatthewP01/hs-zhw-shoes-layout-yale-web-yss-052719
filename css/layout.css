@@ -39,7 +39,7 @@ float: left;
 
 }
 
-[class*="col-"] {
+[class*="column-"] {
  margin-left: 2%;
 }
 
